@@ -26,7 +26,7 @@ const bot = mineflayer.createBot({
   port: 15200,
   username: randomName(),
   auth: "offline",
-  version: "1.21.1"
+  version: false
 })
 
 console.log("Bot serverə qoşulmağa çalışır...")
